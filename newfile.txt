@@ -1,5 +1,1 @@
-hello
-hi
-welcome to Gitubemc1
- hello world
-My Name is Rupak, I am studying in btech comtuter science and business system and enough
+git and github tutorial in tamil
